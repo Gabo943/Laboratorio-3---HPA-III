@@ -32,11 +32,11 @@ Laboratorio 3 - HPA III/ \
 ├── DataGridView/   # Aplicación del Problema 1\
 ├── Juego de Craps/ # Aplicación del Problema 2\
 ├── MDI/            # Aplicación del Problema 3\
-└── README.md       # Documentación del proyecto\
+└── README.md       # Documentación del proyecto
 
 ## Autor y contexto
 - Nombre: Gabriel Jiménez
--  Institución: Universidad Tecnológica de Panamá (UTP)
+- Institución: Universidad Tecnológica de Panamá (UTP)
 - Fecha de Realización: 13/09/2026
 
 ## Referencias
