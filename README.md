@@ -12,8 +12,11 @@ En este repositorio se almacenan 3 programas C# realizados en Visual Studio dond
 ### Problema 1: Implementacion de errores y DataGridView
 Programa que permite la insercion de empleados en una base de datos simulada usando DataGridView.\
 Vista inicial:
+<img width="863" height="539" alt="image" src="https://github.com/user-attachments/assets/60b7076a-1c9e-4413-b2e1-b062a33f034d" />
 
-\Vista de erorres:
+Vista de erorres:
+<img width="908" height="543" alt="image" src="https://github.com/user-attachments/assets/224cc6ed-9374-4241-8fe5-af1a15da2ba8" />
+
 
 ### Problema 2: Juego de Craps
 Programa que simula un juego de Craps utilizando la programación orientada a objetos.\
@@ -34,5 +37,5 @@ Salida:
 - Fecha de Realización: 13/09/2026
 
 ## Referencias
-
+- Archivos enviados por la profesora Irina Fong en la plataforma Moodle
 
