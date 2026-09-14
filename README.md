@@ -28,11 +28,11 @@ Salida:\
 <img width="749" height="621" alt="image" src="https://github.com/user-attachments/assets/201d354b-6efe-4826-b7de-0a8336935d0c" />
 
 ## Estructura de carpetas y archivos
-Laboratorio 3 - HPA III/
-├── DataGridView/   # Aplicación del Problema 1
-├── Juego de Craps/ # Aplicación del Problema 2
-├── MDI/            # Aplicación del Problema 3
-└── README.md       # Documentación del proyecto
+Laboratorio 3 - HPA III/ \
+├── DataGridView/   # Aplicación del Problema 1\
+├── Juego de Craps/ # Aplicación del Problema 2\
+├── MDI/            # Aplicación del Problema 3\
+└── README.md       # Documentación del proyecto\
 
 ## Autor y contexto
 - Nombre: Gabriel Jiménez
