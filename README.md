@@ -1,7 +1,38 @@
 # Laboratorio 3
-Fecha: 13/09/26
-Contenido del Repositorio
+> Fecha: 13/09/26\
+> Contenido del Repositorio\
 En este repositorio se almacenan 3 programas C# realizados en Visual Studio donde s implementaron validaciones de entrada y arquitecturas de navegación visual mediante modelos MDI.
 
 ## Tecnologías utilizadas 
-- 
+- Lenguaje C#
+- Visual Studio
+
+## Capturas de Pantalla y Problemas
+
+### Problema 1: Implementacion de errores y DataGridView
+Programa que permite la insercion de empleados en una base de datos simulada usando DataGridView.\
+Vista inicial:
+
+\Vista de erorres:
+
+### Problema 2: Juego de Craps
+Programa que simula un juego de Craps utilizando la programación orientada a objetos.\
+Salida:
+<img width="1103" height="625" alt="image" src="https://github.com/user-attachments/assets/80c339b2-697a-4c2d-8fc0-33624ccc2568" />
+
+
+### Problema 3: MDI
+Programa que usa la estructura de mdi para generar un sistema organizado en diferentes ventanas.\
+Salida:
+<img width="749" height="621" alt="image" src="https://github.com/user-attachments/assets/201d354b-6efe-4826-b7de-0a8336935d0c" />
+
+
+
+## Autor y contexto
+- Nombre: Gabriel Jiménez
+-  Institución: Universidad Tecnológica de Panamá (UTP)
+- Fecha de Realización: 13/09/2026
+
+## Referencias
+
+
